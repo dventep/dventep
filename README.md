@@ -51,7 +51,7 @@
 
  ## <picture> <img src = "https://cdn.pixabay.com/animation/2023/08/22/07/30/07-30-19-708_512.gif?raw=true" width = 50px>  </picture> Spotify Playing
 
-<div width="100">[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31qflzmmqzz3s2xqgvw2c7nz6nsi)</div>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31qflzmmqzz3s2xqgvw2c7nz6nsi)
  
 <br>
 
